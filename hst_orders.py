@@ -8,7 +8,7 @@ The first higher Stasheff--Tamari poset was introduced by Kapranov and Voevodsky
 theory.
 The second higher Stasheff--Tamari poset was introduced by Edelman and Reiner in their paper The higher Stasheff--Tamari posets.
 
-This module implements the combinatorial of the posets given by the author in arXiv:2007.12664.
+This module implements the combinatorial description of the posets given by the author in arXiv:2007.12664.
 
 The function hst1(m,delta) returns the first higher Stasheff--Tamari poset on the triangulations of C(m,delta).
 
